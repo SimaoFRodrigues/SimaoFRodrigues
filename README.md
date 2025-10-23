@@ -1,30 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> 
-  O meu nome é [teu nome] e sou estudante do Instituto Superior de Engenharia de Lisboa (ISEL), na licenciatura em Engenharia Informática e Multimédia.
+###
 
-Atualmente estou a focar os meus estudos na área do desenvolvimento de software, com interesse em tecnologias como <strong>Java, Python, HTML, CSS e JavaScript</strong> — a minha stack principal.
+<p align="left">My name is Simão Rodrigues and I'm a Computer Engeneering and Multimedia student at ISEL, and I´m from Setúbal, Portugal. Now i´m focusing on techs like Java, Python, HTML, CSS and JavaScript, that is my stack in software development field.<br><br>My goal is create efficient solutions that make a difference for users.</p>
 
-O meu objetivo é evoluir como desenvolvedor de software, criando soluções eficientes, intuitivas e que realmente façam a diferença para os utilizadores.
-</p>
+###
 
-<p align="left">
-  🦄 Linguagens: Java, Pyhton, Arduino, HTML, CSS, JavaScript
-</p>
+<h2 align="left">About me</h2>
 
-<p align="left">
-  💼 Ferramentas: VSCode, Eclipse IDE, IntelliJ IDEA
-</p>
+###
 
-<p align="left">
-  Para entra em contacto comigo: ⤵️
-</p>
+<p align="left">✨ Creating bugs since 2024<br>🎯 Goals: Becoming a professional Software Developer</p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=simao.rodrigues.dev@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simão-rodrigues-0b3522235" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/simaofrr" alt="Instagram"/></a>
-</p>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+</div>
+
+###
