@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>🎯 Goals: Becoming a professional Software Developer</p>
+<p align="left"> Creating bugs since 2024 :p<br>🎯 Goals: Becoming a professional Software Developer</p>
 
 ###
 
