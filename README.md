@@ -8,12 +8,12 @@ Gosto de construir aplicações que assentem em:
 - resolução de problemas do mundo real
 
 
-## 🎯 Objetivo
+## Objetivo
 
 O meu objetivo é **crescer como Software Developer**, consolidando bases sólidas em programação, arquitetura e pensamento crítico, enquanto continuo a aprender novas tecnologias e a trabalhar em projetos desafiantes.
 
 
-## 🧠 Áreas de foco
+## Áreas de foco
 
 - **Java**  
   Programação orientada a objetos, aplicações desktop, organização de código e utilização de Maven.
@@ -25,7 +25,7 @@ O meu objetivo é **crescer como Software Developer**, consolidando bases sólid
   Desenvolvimento web, manipulação do DOM, visualização de dados e aplicações interativas.
 
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 - **OSFR-System**  
   Sistema de Gestão de Ordens de Serviço desenvolvido em Java, com foco em organização, lógica de negócio e estruturação do projeto.
@@ -37,9 +37,9 @@ O meu objetivo é **crescer como Software Developer**, consolidando bases sólid
   Aplicação web interativa para visualização de áudio em tempo real, desenvolvida em JavaScript, HTML e CSS, com recurso à WebAudio API.
 
 
-## ℹ️ Nota pessoal
+## Nota pessoal
 
-> *“Criar bugs desde 2024 😄 — mas sempre com vontade de aprender e melhorar.”*
+> *“Criar bugs desde 2024 ;) — mas sempre com vontade de aprender e melhorar.”*
 
 Estou aberto a **estágios** e oportunidades que me permitam evoluir tecnicamente, aprender com equipas experientes e contribuir de forma ativa em projetos reais.
 
