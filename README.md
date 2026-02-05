@@ -1,41 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Olá, sou o Simão Rodrigues
 
-###
+Sou estudante do **2.º ano de Engenharia Informática e Multimédia no ISEL**, com um forte interesse em **Engenharia de Software** e no desenvolvimento de soluções com impacto real.
 
-<p align="left">My name is Simão Rodrigues and I'm a Computer Engeneering and Multimedia student at ISEL, and I´m from Setúbal, Portugal. Now i´m focusing on techs like Java, Python, HTML, CSS and JavaScript, that is my stack in software development field.<br><br>My goal is create efficient solutions that make a difference for users.</p>
+Gosto de construir aplicações que assentem em:
+- boas práticas de programação
+- lógica bem estruturada
+- resolução de problemas do mundo real
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🎯 Objetivo
 
-###
+O meu objetivo é **crescer como Software Developer**, consolidando bases sólidas em programação, arquitetura e pensamento crítico, enquanto continuo a aprender novas tecnologias e a trabalhar em projetos desafiantes.
 
-<p align="left"> Creating bugs since 2024 :p<br>🎯 Goals: Becoming a professional Software Developer</p>
+---
 
-###
+## 🧠 Áreas de foco
 
-<h2 align="left">I code with</h2>
+- **Java**  
+  Programação orientada a objetos, aplicações desktop, organização de código e utilização de Maven.
 
-###
+- **Python**  
+  Análise e visualização de dados, scripts utilitários e aplicações com interface gráfica simples.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
+- **JavaScript / HTML / CSS**  
+  Desenvolvimento web, manipulação do DOM, visualização de dados e aplicações interativas.
 
-###
+---
+
+## 📌 Projetos em destaque
+
+- **OSFR-System**  
+  Sistema de Gestão de Ordens de Serviço desenvolvido em Java, com foco em organização, lógica de negócio e estruturação do projeto.
+
+- **Portugal Elections Dashboard**  
+  Dashboard de visualização de dados eleitorais em Portugal, desenvolvido com recurso ao Quarto, Python e JavaScript.
+
+- **Audio Visualization System**  
+  Aplicação web interativa para visualização de áudio em tempo real, desenvolvida em JavaScript, HTML e CSS, com recurso à WebAudio API.
+
+---
+
+## ℹ️ Nota pessoal
+
+> *“Criar bugs desde 2024 😄 — mas sempre com vontade de aprender e melhorar.”*
+
+Estou aberto a **estágios** e oportunidades que me permitam evoluir tecnicamente, aprender com equipas experientes e contribuir de forma ativa em projetos reais.
+
+🔗 Portefólio: https://simaofrodrigues.github.io
