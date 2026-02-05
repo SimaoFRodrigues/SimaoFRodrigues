@@ -7,13 +7,11 @@ Gosto de construir aplicações que assentem em:
 - lógica bem estruturada
 - resolução de problemas do mundo real
 
----
 
 ## 🎯 Objetivo
 
 O meu objetivo é **crescer como Software Developer**, consolidando bases sólidas em programação, arquitetura e pensamento crítico, enquanto continuo a aprender novas tecnologias e a trabalhar em projetos desafiantes.
 
----
 
 ## 🧠 Áreas de foco
 
@@ -26,7 +24,6 @@ O meu objetivo é **crescer como Software Developer**, consolidando bases sólid
 - **JavaScript / HTML / CSS**  
   Desenvolvimento web, manipulação do DOM, visualização de dados e aplicações interativas.
 
----
 
 ## 📌 Projetos em destaque
 
@@ -39,7 +36,6 @@ O meu objetivo é **crescer como Software Developer**, consolidando bases sólid
 - **Audio Visualization System**  
   Aplicação web interativa para visualização de áudio em tempo real, desenvolvida em JavaScript, HTML e CSS, com recurso à WebAudio API.
 
----
 
 ## ℹ️ Nota pessoal
 
