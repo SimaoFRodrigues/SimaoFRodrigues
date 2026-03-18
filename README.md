@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Simão Rodrigues 👋</h1>
+<h1 align="center">Hi, I'm Simão Rodrigues</h1>
 
 <p align="center">
   Software Engineering student · ISEL · Building things that matter
