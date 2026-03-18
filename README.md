@@ -1,46 +1,75 @@
-# 👋 Olá, sou o Simão Rodrigues
+<h1 align="center">Hi, I'm Simão Rodrigues 👋</h1>
 
-Sou estudante do **2.º ano de Engenharia Informática e Multimédia no ISEL**, com um forte interesse em **Engenharia de Software** e no desenvolvimento de soluções com impacto real.
+<p align="center">
+  Software Engineering student · ISEL · Building things that matter
+</p>
 
-Gosto de construir aplicações que assentem em:
-- boas práticas de programação
-- lógica bem estruturada
-- resolução de problemas do mundo real
+<p align="center">
+  <a href="https://simaofrodrigues.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-simaofrodrigues.github.io-black?style=flat-square&logo=github" alt="Portfolio"/>
+  </a>
+</p>
 
+---
 
-## Objetivo
+## About me
 
-O meu objetivo é **crescer como Software Developer**, consolidando bases sólidas em programação, arquitetura e pensamento crítico, enquanto continuo a aprender novas tecnologias e a trabalhar em projetos desafiantes.
+I'm a 2nd-year **Computer Engineering and Multimedia** student at ISEL, focused on **Software Engineering** and building solutions that solve real problems.
 
+My work is grounded in clean code, well-structured logic, and pragmatic problem-solving — I care as much about *how* something is built as *what* it does.
 
-## Áreas de foco
+---
 
-- **Java**  
-  Programação orientada a objetos, aplicações desktop, organização de código e utilização de Maven.
+## Tech stack
 
-- **Python**  
-  Análise e visualização de dados, scripts utilitários e aplicações com interface gráfica simples.
+**Languages & runtimes**
 
-- **JavaScript / HTML / CSS**  
-  Desenvolvimento web, manipulação do DOM, visualização de dados e aplicações interativas.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Tools & frameworks**
 
-## Projetos em destaque
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-4FAEC3?style=flat-square&logo=quarto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- **OSFR-System**  
-  Sistema de Gestão de Ordens de Serviço desenvolvido em Java, com foco em organização, lógica de negócio e estruturação do projeto.
+---
 
-- **Portugal Elections Dashboard**  
-  Dashboard de visualização de dados eleitorais em Portugal, desenvolvido com recurso ao Quarto, Python e JavaScript.
+## Featured projects
 
-- **Audio Visualization System**  
-  Aplicação web interativa para visualização de áudio em tempo real, desenvolvida em JavaScript, HTML e CSS, com recurso à WebAudio API.
+### [OSFR-System](https://github.com/simaofrodrigues/OSFR-System)
+Work Order Management System built in Java. Emphasis on object-oriented design, business logic separation, and scalable project structure with Maven.
 
+### [Portugal Elections Dashboard](https://github.com/simaofrodrigues/portugal-elections-dashboard)
+Electoral data visualization dashboard for Portugal — built with Quarto, Python, and JavaScript. Turns raw electoral data into interactive, readable insights.
 
-## Nota pessoal
+### [Audio Visualization System](https://github.com/simaofrodrigues/audio-visualization-system)
+Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS, and the Web Audio API.
 
-> *“Criar bugs desde 2024 ;) — mas sempre com vontade de aprender e melhorar.”*
+---
 
-Estou aberto a **estágios** e oportunidades que me permitam evoluir tecnicamente, aprender com equipas experientes e contribuir de forma ativa em projetos reais.
+## Currently
 
-🔗 Portefólio: https://simaofrodrigues.github.io
+- 📚 2nd year @ ISEL — Computer Engineering and Multimedia
+- 🔨 Strengthening fundamentals in software architecture and system design
+- 📖 Continuously learning — always one new thing at a time
+- 🤝 Open to **internships** and opportunities to contribute to real projects alongside experienced teams
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simaofrodrigues&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaofrodrigues&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Shipping bugs since 2024 — but always learning from them.</em>
+</p>
