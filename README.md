@@ -16,7 +16,7 @@
 
 I'm a 2nd-year **Computer Engineering and Multimedia** student at ISEL, focused on **Software Engineering** and building solutions that solve real problems.
 
-My work is grounded in clean code, well-structured logic, and pragmatic problem-solving — I care as much about *how* something is built as *what* it does.
+My work is grounded in clean code, well-structured logic, and pragmatic problem-solving, I care as much about *how* something is built as *what* it does.
 
 ---
 
@@ -32,10 +32,9 @@ My work is grounded in clean code, well-structured logic, and pragmatic problem-
 
 **Tools & frameworks**
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-4FAEC3?style=flat-square&logo=quarto&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-4FAEC3?style=flat-square&logo=quarto&logoColor=white)
 
 ---
 
@@ -54,10 +53,10 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 
 ## Currently
 
-- 📚 2nd year @ ISEL — Computer Engineering and Multimedia
-- 🔨 Strengthening fundamentals in software architecture and system design
-- 📖 Continuously learning — always one new thing at a time
-- 🤝 Open to **internships** and opportunities to contribute to real projects alongside experienced teams
+- 2nd year @ ISEL — Computer Engineering and Multimedia
+- Strengthening fundamentals in software architecture and system design
+- Continuously learning — always one new thing at a time
+- Open to **internships** and opportunities to contribute to real projects alongside experienced teams
 
 ---
 
