@@ -44,7 +44,7 @@ My work is grounded in clean code, well-structured logic, and pragmatic problem-
 Work Order Management System built in Java. Emphasis on object-oriented design, business logic separation, and scalable project structure with Maven.
 
 ### [Portugal Elections Dashboard](https://github.com/simaofrodrigues/portugal-elections-dashboard)
-Electoral data visualization dashboard for Portugal — built with Quarto, Python, and JavaScript. Turns raw electoral data into interactive, readable insights.
+Electoral data visualization dashboard for Portugal, built with Quarto, Python, and JavaScript. Turns raw electoral data into interactive, readable insights.
 
 ### [Audio Visualization System](https://github.com/simaofrodrigues/audio-visualization-system)
 Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS, and the Web Audio API.
@@ -55,7 +55,7 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 
 - 2nd year @ ISEL — Computer Engineering and Multimedia
 - Strengthening fundamentals in software architecture and system design
-- Continuously learning — always one new thing at a time
+- Continuously learning, always one new thing at a time
 - Open to **internships** and opportunities to contribute to real projects alongside experienced teams
 
 ---
@@ -69,5 +69,5 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 ---
 
 <p align="center">
-  <em>Shipping bugs since 2024 — but always learning from them.</em>
+  <em>Shipping bugs since 2024, but always learning from them.</em>
 </p>
