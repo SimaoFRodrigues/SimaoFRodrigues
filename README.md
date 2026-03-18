@@ -63,7 +63,6 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simaofrodrigues&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaofrodrigues&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
