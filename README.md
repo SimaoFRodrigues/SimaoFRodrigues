@@ -32,6 +32,7 @@ My work is grounded in clean code, well-structured logic, and pragmatic problem-
 
 **Tools & frameworks**
 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-4FAEC3?style=flat-square&logo=quarto&logoColor=white)
