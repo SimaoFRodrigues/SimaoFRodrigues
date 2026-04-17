@@ -61,14 +61,6 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaofrodrigues&layout=compact&theme=default&hide_border=true&cache_seconds=0" alt="Top Languages" height="160"/>
-</p>
-
----
-
 <p align="center">
   <em>Shipping bugs since 2024, but always learning from them.</em>
 </p>
