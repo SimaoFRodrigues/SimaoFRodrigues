@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://simaofrodrigues.github.io">
+  <a href="https://simaorodrigues.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-simaofrodrigues.github.io-black?style=flat-square&logo=github" alt="Portfolio"/>
   </a>
 </p>
