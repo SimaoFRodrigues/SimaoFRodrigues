@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a 2nd-year **Computer Engineering and Multimedia** student at ISEL, focused on **Software Engineering** and building solutions that solve real problems.
+I'm a final year **Computer Engineering and Multimedia** student at ISEL, focused on **Software Engineering** and building solutions that solve real problems.
 
 My work is grounded in clean code, well-structured logic, and pragmatic problem-solving, I care as much about *how* something is built as *what* it does.
 
