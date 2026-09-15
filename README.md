@@ -54,7 +54,7 @@ Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS
 
 ## Currently
 
-- 2nd year @ ISEL — Computer Engineering and Multimedia
+- Final year @ ISEL — Computer Engineering and Multimedia
 - Strengthening fundamentals in software architecture and system design
 - Continuously learning, always one new thing at a time
 - Open to **internships** and opportunities to contribute to real projects alongside experienced teams
