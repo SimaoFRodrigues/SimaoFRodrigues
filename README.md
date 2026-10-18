@@ -10,7 +10,7 @@
 
 ## A little about me
 
-I enjoy turning ideas into useful software, from Java applications and Spring Boot APIs to interactive web experiences. My interests also include data analysis, computer vision and multimedia.
+My name is Simão Rodrigues, I'm 23yo and I'm a final year student in BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). I enjoy turning ideas into useful software, from Java applications and Spring Boot APIs to interactive web experiences. My interests also include data analysis, computer vision and multimedia.
 
 Java, Python and JavaScript are at the core of my work. I value clear code, well-structured logic and learning through practical projects, whether I'm working with databases, exploring a dataset or building something visual.
 
