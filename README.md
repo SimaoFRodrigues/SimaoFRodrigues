@@ -10,7 +10,7 @@
 
 ## A little about me
 
-My name is Simão Rodrigues, I'm 23yo and I'm a final year student in BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). I enjoy turning ideas into useful software, from Java applications and Spring Boot APIs to interactive web experiences. My interests also include data analysis, computer vision and multimedia.
+My name is Simão Rodrigues, I'm 21yo and I'm a final year student in BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). I enjoy turning ideas into useful software, from Java applications and Spring Boot APIs to interactive web experiences. My interests also include data analysis, computer vision and multimedia.
 
 Java, Python and JavaScript are at the core of my work. I value clear code, well-structured logic and learning through practical projects, whether I'm working with databases, exploring a dataset or building something visual.
 
@@ -37,27 +37,8 @@ JavaScript · Java · Python · MySQL · HTML5 · CSS3 · OpenCV · NumPy · Mat
 
 ---
 
-## Featured projects
-
-### [OSFR-System](https://github.com/simaofrodrigues/OSFR-System)
-Work Order Management System built in Java. Emphasis on object-oriented design, business logic separation, and scalable project structure with Maven.
-
-### [Portugal Elections Dashboard](https://github.com/simaofrodrigues/portugal-elections-dashboard)
-Electoral data visualization dashboard for Portugal, built with Quarto, Python, and JavaScript. Turns raw electoral data into interactive, readable insights.
-
-### [Audio Visualization System](https://github.com/simaofrodrigues/audio-visualization-system)
-Real-time audio visualization in the browser using vanilla JavaScript, HTML, CSS, and the Web Audio API.
-
----
-
 ## Currently
 
 - Studying Computer Engineering and Multimedia at ISEL
 - Developing my skills in software architecture and system design
 - Open to internships and opportunities to learn alongside experienced teams
-
-## Let's connect
-
-- [Portfolio](https://simaorodrigues.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/sim%C3%A3o-rodrigues1)
-- [Email](mailto:simao.rodrigues.dev@gmail.com)
